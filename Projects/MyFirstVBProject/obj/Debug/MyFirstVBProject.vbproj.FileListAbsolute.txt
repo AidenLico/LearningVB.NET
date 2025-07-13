@@ -1,0 +1,12 @@
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\bin\Debug\MyFirstVBProject.exe.config
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\bin\Debug\MyFirstVBProject.exe
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\bin\Debug\MyFirstVBProject.pdb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\bin\Debug\MyFirstVBProject.xml
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.vbproj.AssemblyReference.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.Form1.resources
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.Resources.resources
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.vbproj.GenerateResource.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.vbproj.CoreCompileInputs.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.exe
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.xml
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\MyFirstVBProject\obj\Debug\MyFirstVBProject.pdb

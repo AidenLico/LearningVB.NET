@@ -1,0 +1,16 @@
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\bin\Debug\net9.0\Basics.exe
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\bin\Debug\net9.0\Basics.deps.json
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\bin\Debug\net9.0\Basics.runtimeconfig.json
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\bin\Debug\net9.0\Basics.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\bin\Debug\net9.0\Basics.pdb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.AssemblyInfoInputs.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.AssemblyInfo.vb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.vbproj.CoreCompileInputs.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.sourcelink.json
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\refint\Basics.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.pdb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.genruntimeconfig.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\ref\Basics.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\Basics\obj\Debug\net9.0\Basics.vbproj.ResolveComReference.cache

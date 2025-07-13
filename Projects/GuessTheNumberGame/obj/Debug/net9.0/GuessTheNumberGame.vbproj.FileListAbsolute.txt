@@ -1,0 +1,15 @@
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\bin\Debug\net9.0\GuessTheNumberGame.exe
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\bin\Debug\net9.0\GuessTheNumberGame.deps.json
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\bin\Debug\net9.0\GuessTheNumberGame.runtimeconfig.json
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\bin\Debug\net9.0\GuessTheNumberGame.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\bin\Debug\net9.0\GuessTheNumberGame.pdb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.AssemblyInfoInputs.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.AssemblyInfo.vb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.vbproj.CoreCompileInputs.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.sourcelink.json
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\refint\GuessTheNumberGame.dll
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.pdb
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\GuessTheNumberGame.genruntimeconfig.cache
+C:\Users\aiden\Portfolio\Self_Taught_Stuff\LearningVB.NET\Projects\GuessTheNumberGame\obj\Debug\net9.0\ref\GuessTheNumberGame.dll
